@@ -1,0 +1,4 @@
+tmp/
+output/
+build_updated_cv.py
+.DS_Store
